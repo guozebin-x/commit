@@ -1,0 +1,29 @@
+{
+  "name": "commit",
+  "version": "0.0.1",
+  "description": "代码提交工具",
+  "main": "index.js",
+  "bin": {
+    "cm": "index.js"
+  },
+  "scripts": {
+    "test": "commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guozebin-x/commit.git"
+  },
+  "keywords": [
+    "commit"
+  ],
+  "author": "gzb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guozebin-x/commit/issues"
+  },
+  "homepage": "https://github.com/guozebin-x/commit#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "execa": "^3.2.0"
+  }
+}
