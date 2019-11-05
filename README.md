@@ -1,7 +1,7 @@
 # 代码快速提交工具
 
 ```sh
-npm install -g commit
+npm install -g speedcommit
 ```
 
 提供全局命令 cm，一次完成提交三步，第二个参数为 commit 信息，第三个参数为分支名（可不填默认为 test）

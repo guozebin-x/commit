@@ -1,5 +1,5 @@
 {
-  "name": "commit",
+  "name": "speedcommit",
   "version": "0.0.1",
   "description": "代码提交工具",
   "main": "index.js",
