@@ -26,7 +26,7 @@ commit 信息应遵循
 - fix: 修复 bug
 - feat: 新功能
 - docs: 文档改变
-- style: 代码格式改变
+- style: 页面样式改变
 - perf: 性能优化 or 代码优化
 - refactor: 某个已有功能重构
 - test: 增加测试
